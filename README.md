@@ -7,7 +7,7 @@ Practice on analyzing databases, inferential and descriptive analysis
 
 **Tech used:** Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 
-* **Data ingest & cleaning** – reads `project_dataset.csv`, converts “?” to `NaN`, drops mostly empty columns (`weight`, `max_glu_serum`) and non-analytic IDs
+* **Data ingest & cleaning** – reads `project_dataset.csv`, converts “?” to `NaN`, drops mostly empty columns (`weight`, `max_glu_serum`)
 * **Descriptive EDA** – dimensionality check , missing-value audit, and per-column summary
 * **Visuals** – histograms, bar charts, heat-map correlation matrix and more
 * **Inferential tests** –  t-tests on *time-in-hospital* groups, ANOVA for race differences and more 
@@ -16,7 +16,7 @@ Practice on analyzing databases, inferential and descriptive analysis
 
 ---
 
-## Getting Started Locally 🏃‍♂️
+## Getting Started
 
 ```bash
 # 1 – Clone
